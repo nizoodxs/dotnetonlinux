@@ -1,0 +1,15 @@
+/home/nizoodxs/Desktop/repo/dotnetonlinux/consolesample/bin/Debug/net8.0/consolesample
+/home/nizoodxs/Desktop/repo/dotnetonlinux/consolesample/bin/Debug/net8.0/consolesample.deps.json
+/home/nizoodxs/Desktop/repo/dotnetonlinux/consolesample/bin/Debug/net8.0/consolesample.runtimeconfig.json
+/home/nizoodxs/Desktop/repo/dotnetonlinux/consolesample/bin/Debug/net8.0/consolesample.dll
+/home/nizoodxs/Desktop/repo/dotnetonlinux/consolesample/bin/Debug/net8.0/consolesample.pdb
+/home/nizoodxs/Desktop/repo/dotnetonlinux/consolesample/obj/Debug/net8.0/consolesample.GeneratedMSBuildEditorConfig.editorconfig
+/home/nizoodxs/Desktop/repo/dotnetonlinux/consolesample/obj/Debug/net8.0/consolesample.AssemblyInfoInputs.cache
+/home/nizoodxs/Desktop/repo/dotnetonlinux/consolesample/obj/Debug/net8.0/consolesample.AssemblyInfo.cs
+/home/nizoodxs/Desktop/repo/dotnetonlinux/consolesample/obj/Debug/net8.0/consolesample.csproj.CoreCompileInputs.cache
+/home/nizoodxs/Desktop/repo/dotnetonlinux/consolesample/obj/Debug/net8.0/consolesample.sourcelink.json
+/home/nizoodxs/Desktop/repo/dotnetonlinux/consolesample/obj/Debug/net8.0/consolesample.dll
+/home/nizoodxs/Desktop/repo/dotnetonlinux/consolesample/obj/Debug/net8.0/refint/consolesample.dll
+/home/nizoodxs/Desktop/repo/dotnetonlinux/consolesample/obj/Debug/net8.0/consolesample.pdb
+/home/nizoodxs/Desktop/repo/dotnetonlinux/consolesample/obj/Debug/net8.0/consolesample.genruntimeconfig.cache
+/home/nizoodxs/Desktop/repo/dotnetonlinux/consolesample/obj/Debug/net8.0/ref/consolesample.dll
